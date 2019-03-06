@@ -1,17 +1,16 @@
-# Google HashCode 2018
-My team's(Bytefellas) implementations for both practice & qualification rounds.
+# Google HashCode
+My team's(Bytefellas) implementations for 2018 and 2019 qualification rounds.
 
-## Practice Problem
-- Language used: *Python*
-- Points: *943,711*
-- Usage: ```$ ./test.sh```
-
-## Qualification Problem
+## Qualification 2018
 - Language used: *Java*
 - Points: *14,896,001*
 - Usage: ```$ ./script.sh```
 
-## Useful Links
-https://hashcode-pizza.now.sh/
+## Qualification 2019
+- Language used: *Python*
+- Points: *207,009*
+- Usage: ```$ python <in.file>```
 
-https://hashcode.withgoogle.com/
+## Useful Links
+
+https://codingcompetitions.withgoogle.com/hashcode/
