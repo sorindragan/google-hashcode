@@ -1,5 +1,5 @@
 # Google HashCode
-My team's(Bytefellas) implementations for 2018 and 2019 qualification rounds.
+Implementations for 2018, 2019 and 2020 hashcode qualification rounds.
 
 ## Qualification 2018
 - Language used: *Java*
@@ -10,6 +10,11 @@ My team's(Bytefellas) implementations for 2018 and 2019 qualification rounds.
 - Language used: *Python*
 - Points: *207,009*
 - Usage: ```$ python <in.file>```
+
+## Qualification 2020
+- Language used: *Python*
+- Points: *12,930,045*
+- Usage: Jupyter Notebook
 
 ## Useful Links
 
