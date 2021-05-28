@@ -1,6 +1,10 @@
 # Google HashCode
 Implementations for hashcode qualification rounds from 2018 onwards.
 
+## Qualification 2021 - Traffic Signaling
+- Language used: *Python*
+- Points: *178,823,480*
+- Usage: ```$ python in_hashcode*.py```
 ## Qualification 2020 - Google Books
 - Language used: *Python*
 - Points: *12,930,045*
